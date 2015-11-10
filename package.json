@@ -1,0 +1,19 @@
+{
+  "name": "ascii-art",
+  "main": "./lib/ascii-art",
+  "version": "0.0.1",
+  "description": "Show ascii string with ascii image",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "ascii-art:convert"
+  },
+  "repository": "https://github.com/astonfu/atom-ascii-art",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "figlet": "1.0.8"
+  }
+}
