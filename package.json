@@ -1,10 +1,9 @@
 {
   "name": "ascii-art",
   "main": "./lib/ascii-art",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Show ascii string with ascii image",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "ascii-art:convert"
   },
