@@ -1,7 +1,7 @@
 {
   "name": "ascii-art",
   "main": "./lib/ascii-art",
-  "version": "0.1.2",
+  "version": "1.0.1",
   "description": "Show ascii string with ascii image",
   "keywords": [],
   "activationCommands": {
