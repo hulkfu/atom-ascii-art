@@ -17,4 +17,4 @@ This is learn from atom official guid, you can find at [https://atom.io/docs/v1.
 * select the ascii string
 * Ctrl + Alt + a
 
-![A screenshot](./show.gif)
+![A screenshot](https://raw.githubusercontent.com/astonfu/atom-ascii-art/master/show.gif)
