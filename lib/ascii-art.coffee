@@ -19,7 +19,8 @@ module.exports = AsciiArt =
       selection = editor.getSelectedText()
 
       figlet = require 'figlet'
-      font = "big"
+
+      console.log "Convertting #{selection}..."
       figlet selection, (error, art) ->
         if error
           console.error error

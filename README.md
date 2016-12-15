@@ -3,7 +3,7 @@ atom ascii-art package
 
 Show ascii string with ascii image.
 
-This is learn from atom official guid, you can find at [https://atom.io/docs/v1.1.0/hacking-atom-package-modifying-text](https://atom.io/docs/v1.1.0/hacking-atom-package-modifying-text).
+This is learn from atom official guid, you can find at [http://flight-manual.atom.io/hacking-atom/sections/package-modifying-text/](http://flight-manual.atom.io/hacking-atom/sections/package-modifying-text/).
 
 ```
                  _ _              _   
